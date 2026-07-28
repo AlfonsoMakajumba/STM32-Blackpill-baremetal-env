@@ -3,7 +3,7 @@
 # also i used this one:
 # https://www.gnu.org/software/make/manual/html_node/Text-Functions.html
 
-NAME := mmWave
+NAME := genericName
 
 SRCS_DIR := Src
 INCS_DIR := Inc
