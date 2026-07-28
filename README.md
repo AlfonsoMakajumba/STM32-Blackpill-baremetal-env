@@ -12,7 +12,7 @@ Just type in "make" to compile or "make flash" to compile and flash the board.
 ##
 Important note
 
-To flash the board using "make flash" you have to enter DFU mode on the board by unplugging it, pressing and holding "BOOT" button on it. Then you have to plug it in and release the button.
+To flash the board using "make flash" you have to enter DFU mode on the board by unplugging it, pressing and holding "BOOT" button. Then you have to plug the board in and release the button.
 
 Tools used:
 - arm-none-eabi-gcc
