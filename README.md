@@ -2,6 +2,7 @@
 # STM32 BLackpill clean environment
 
 Designed to be a clean bare metal no bloat template for a blackpill STM32F411CEU6 without an usbTTL or ST-LINK.
+This is a minimal build skeleton intended for developers who already know the toolchain.
 
 Written using only C, uses only the most necessary CMSIS headers. 
 
